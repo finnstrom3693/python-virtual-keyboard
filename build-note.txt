@@ -1,0 +1,1 @@
+pyinstaller --onefile --windowed basic-tkinter-keyboard-us-qwerty.py
